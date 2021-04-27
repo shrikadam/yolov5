@@ -28,6 +28,7 @@ runs/*
 data/*
 !data/images/zidane.jpg
 !data/images/bus.jpg
+!data/videos/TopDown_AerialVideo_1080.mp4
 !data/coco.names
 !data/coco_paper.names
 !data/coco.data
